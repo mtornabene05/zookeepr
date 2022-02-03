@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/mtornabene05/zookeepr#readme",
   "dependencies": {
-    "express": "^4.17.2",
-    "heroku": "^7.59.2"
+    "express": "^4.17.2"
   }
 }
