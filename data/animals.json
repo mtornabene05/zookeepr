@@ -108,6 +108,17 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "cutie",
+      "species": "gorilla",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
